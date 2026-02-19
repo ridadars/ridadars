@@ -1,4 +1,4 @@
-# Hi, I'm Rida 👋
+# Hi, I'm Rida E Zehra Dars👋
 
 AI/ML Engineer specializing in LLMs, RAG pipelines, Computer Vision, and Voice AI systems.
 
