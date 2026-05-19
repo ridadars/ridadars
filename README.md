@@ -1,46 +1,67 @@
-<h1>Rida E Zehra Dars</h1>
+<div align="center">
 
-<p>AI/ML Engineer building at the intersection of language models, computer vision, and voice AI. Focused on shipping production-ready systems — from RAG pipelines and LLM-powered agents to real-time voice interfaces and automated workflows.</p>
+<sub>AI / ML Engineer</sub>
+
+# Rida E Zehra Dars
+
+<p>Building production-grade AI systems at the intersection of language models, computer vision, and voice interfaces.<br>I go from zero to shipped — RAG pipelines, LLM agents, real-time voice AI, and mobile apps.</p>
 
 ![Open to Freelance](https://img.shields.io/badge/Open%20to%20Freelance-✓-brightgreen?style=flat-square)
+![Location](https://img.shields.io/badge/Karachi%2C%20Pakistan-📍-blue?style=flat-square)
+![Age](https://img.shields.io/badge/20%20y%2Fo%20builder-⚡-gray?style=flat-square)
+
+</div>
 
 ---
 
 ## About
 
-I'm a 20-year-old engineer with hands-on experience building AI-powered products from scratch — not just experimenting, but shipping. My work spans RAG pipelines with FAISS and ChromaDB, voice AI agents using Vapi and Retell, computer vision systems with OpenCV and PyTorch, and mobile apps in Flutter. I'm especially drawn to niches where deep technical knowledge meets real product value — healthcare AI, intelligent automation, and multimodal systems.
+I'm an AI/ML engineer who builds end-to-end systems, not just models. My focus is on **applied AI** — taking research-grade techniques and turning them into reliable, deployable products. I specialize in **RAG architectures** using FAISS and ChromaDB, **Voice AI agents** on Vapi and Retell, and **Computer Vision** with PyTorch and OpenCV. Beyond ML, I build full products: backend automation with n8n, mobile apps in Flutter, and EMR integrations for healthcare AI. I'm drawn to technically dense niches where most engineers won't go — that's where real leverage lives.
+
+---
+
+## What I'm working on
+
+| | Project | Description |
+|---|---|---|
+| 🏥 | **Kneva Technologies** | AI voice agents for dermatology clinics — inbound call automation + EMR integration |
+| 🌿 | **PlantPanda** | Flutter plant marketplace app — dark forest-green UI, Supabase backend |
+| 🛠 | **Freelance AI tooling** | Productized services around n8n, Vapi, Retell, and chatbot automation |
+| 📚 | **Deep learning** | Going deeper into transformers, multimodal models, and inference optimization |
 
 ---
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
-![LLM](https://img.shields.io/badge/LLMs-412991?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-0099CC?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=flat-square)
-![OCR](https://img.shields.io/badge/OCR-4285F4?style=flat-square)
-![Vapi](https://img.shields.io/badge/Vapi-black?style=flat-square)
-![Retell AI](https://img.shields.io/badge/Retell%20AI-black?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+**AI / ML**
+`Python` `PyTorch` `TensorFlow` `Scikit-learn` `Hugging Face` `LangChain`
+
+**LLMs & RAG**
+`OpenAI API` `Gemini` `FAISS` `ChromaDB` `Pinecone` `Embeddings`
+
+**Vision & OCR**
+`OpenCV` `face_recognition` `Tesseract` `PIL / Pillow`
+
+**Voice AI**
+`Vapi` `Retell AI` `Twilio` `ElevenLabs` `Deepgram`
+
+**Automation**
+`n8n` `Zapier` `Make` `REST APIs` `Webhooks`
+
+**Mobile & Backend**
+`Flutter` `Dart` `Firebase` `Supabase` `FastAPI`
 
 ---
 
 ## Projects
 
-| Project | Description |
-|---|---|
-| [Face Recognition Attendance System](https://github.com/ridadars/Face-Recognition-Attendance-System) | Real-time attendance tracking using OpenCV and deep learning face embeddings |
-| [Mini RAG Application](https://github.com/ridadars/mini-rag-application) | Retrieval-augmented generation pipeline with vector search and LLM integration |
-| [AI News Summarizer](https://github.com/ridadars/AI-NEWS-SUMMARIZER) | Automated news aggregation and summarization powered by LLMs |
-| [Gemini Conversational LLM](https://github.com/ridadars/Gemini-Conversational-LLM) | Multi-turn conversational agent built on Google Gemini with memory and context handling |
-| [AI Voice Agent](https://github.com/ridadars/ai-voice-agent) | Intelligent inbound call automation with real-time speech processing and workflow integration |
+| Project | Description | Stack |
+|---|---|---|
+| [AI Voice Agent](https://github.com/ridadars/ai-voice-agent) | Inbound call automation with real-time speech processing, intent routing, and workflow integration | `Vapi` |
+| [Mini RAG Application](https://github.com/ridadars/mini-rag-application) | End-to-end RAG pipeline: document ingestion, chunking, vector search, and LLM response synthesis | `LangChain` |
+| [Face Recognition Attendance](https://github.com/ridadars/Face-Recognition-Attendance-System) | Real-time facial recognition attendance system using deep face embeddings and OpenCV | `OpenCV` |
+| [Gemini Conversational LLM](https://github.com/ridadars/Gemini-Conversational-LLM) | Multi-turn conversational agent with persistent memory, context management, and tool use | `Gemini` |
+| [AI News Summarizer](https://github.com/ridadars/AI-NEWS-SUMMARIZER) | Automated multi-source news aggregation, deduplication, and LLM-powered summarization | `Python` |
 
 ---
 
@@ -52,7 +73,7 @@ I'm a 20-year-old engineer with hands-on experience building AI-powered products
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridadars&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridadars&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -68,3 +89,8 @@ I'm a 20-year-old engineer with hands-on experience building AI-powered products
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridadars)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ridadars)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+---
+
+<sub>Profile views · Last updated May 2026</sub>
