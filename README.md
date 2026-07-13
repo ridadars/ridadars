@@ -128,6 +128,23 @@ I build **Flutter apps** and automate backend workflows with n8n and FastAPI, in
 
 ---
 
+## 🏅 Kaggle
+
+<p align="center">
+  <a href="https://www.kaggle.com/ridadars">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ridadars/competition" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ridadars/dataset" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ridadars/notebook" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ridadars/discussion" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
