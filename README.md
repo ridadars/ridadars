@@ -1,3 +1,4 @@
+<!-- HERO SECTION -->
 <div align="center">
 
 <sub>AI / ML Engineer</sub>
@@ -6,9 +7,13 @@
 
 <p>Building production-grade AI systems at the intersection of language models, computer vision, and voice interfaces.<br>I go from zero to shipped — RAG pipelines, LLM agents, real-time voice AI, and mobile apps.</p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;RAG+Pipelines+%26+LLM+Agents;Voice+AI+%7C+Vapi+%7C+Retell;Computer+Vision+%7C+PyTorch;Flutter+%7C+FastAPI+%7C+n8n" />
+
 ![Open to Freelance](https://img.shields.io/badge/Open%20to%20Freelance-✓-brightgreen?style=flat-square)
 ![Location](https://img.shields.io/badge/Karachi%2C%20Pakistan-📍-blue?style=flat-square)
 ![Age](https://img.shields.io/badge/20%20y%2Fo%20builder-⚡-gray?style=flat-square)
+
+<img src="https://komarev.com/ghpvc/?username=ridadars&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -87,10 +92,9 @@ I'm an AI/ML engineer who builds end-to-end systems, not just models. My focus i
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridadars)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:darsrida483@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ridadars)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 ---
 
-<sub>Last updated May 2026</sub>
+<sub>Last updated July 2026</sub>
