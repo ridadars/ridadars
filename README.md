@@ -24,7 +24,7 @@ I'm an **AI/ML engineer who builds end-to-end systems, not just models**. My foc
 - 📱 Flutter Developer building mobile apps
 - ⚙️ Backend automation with n8n & FastAPI
 - 📍 Based in Karachi, Pakistan — open to freelance
-- ⚡ 20 y/o builder, drawn to technically dense niches where most engineers won't go
+- ⚡ 21 y/o builder, drawn to technically dense niches where most engineers won't go
 
 ---
 
@@ -125,23 +125,6 @@ I build **Flutter apps** and automate backend workflows with n8n and FastAPI, in
 | [Face Recognition Attendance](https://github.com/ridadars/Face-Recognition-Attendance-System) | Real-time facial recognition attendance system using deep face embeddings and OpenCV | `OpenCV` |
 | [Gemini Conversational LLM](https://github.com/ridadars/Gemini-Conversational-LLM) | Multi-turn conversational agent with persistent memory, context management, and tool use | `Gemini` |
 | [AI News Summarizer](https://github.com/ridadars/AI-NEWS-SUMMARIZER) | Automated multi-source news aggregation, deduplication, and LLM-powered summarization | `Python` |
-
----
-
-## 🏅 Kaggle
-
-<p align="center">
-  <a href="https://www.kaggle.com/ridadars">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ridadars/competition" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ridadars/dataset" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ridadars/notebook" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ridadars/discussion" />
-</p>
 
 ---
 
